@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=margh00b&label=Profile%20views&color=0e75b6&style=flat" alt="margh00b" /> </p>
 
-- 🔭 I’m currently working on [TaskSynk](https://github.com/margh00b/TaskSynk)
-
 - 🌱 I’m currently learning **Angular and Redux**
 
 - 📫 How to reach me **marghoobahmd25@gmail.com**
