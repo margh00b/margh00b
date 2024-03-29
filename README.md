@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Angular and Redux**
 
-- 📫 How to reach me **marghoobahmd25@gmail.com**
+- 📫 Reach me via email: **marghoobahmd25@gmail.com**
 
-- ⚡ Fun fact **I am a photographer as well. Don't forget to check out my Instagram**
+- ⚡ Fun fact:  **I am a photographer. Don't forget to check out my Instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
