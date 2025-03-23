@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marghoob Ahmad</h1>
-<h3 align="center">A passionate frontend web developer, currently in Riga, Latvia</h3>
+<h3 align="center">A passionate Full-stack Web Developer, currently in Calgary, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=margh00b&label=Profile%20views&color=0e75b6&style=flat" alt="margh00b" /> </p>
 
-- 🌱 I’m currently learning **Angular and Redux**
+- 🌱 I’m currently learning **Next and Redux**
 
 - 📫 Reach me via email: **marghoobahmd25@gmail.com**
 
